@@ -13,6 +13,7 @@ body{
 }
 .diece{
     width: 80px;
+    padding: 10px;
 }
 .button{
     display: inline-block;
@@ -38,4 +39,9 @@ body{
   background-color: #3e8e41;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
+}
+
+.selected{
+  border-style: solid;
+  border-color: darkseagreen;
 }
